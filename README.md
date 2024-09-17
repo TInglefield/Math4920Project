@@ -4,8 +4,11 @@ This project implements a statistical arbitrage trading strategy using pairs tra
 
 ## Features
 **Cointegration Tracking**: Identifies and tracks stock pairs that are cointegrated, ensuring the pairs move together over time.
+
 **Spread Monitoring**: Calculates the spread between stock prices and monitors it daily. Trades are triggered when the spread deviates more than 2 standard deviations from its historical mean.
+
 **Liquidity Check**: Ensures that the stocks in the pairs are highly liquid before initiating trades.
+
 **Weekly Re-evaluation**: Assesses the cointegration status of stock pairs on a weekly basis. Trades are closed if pairs are no longer cointegrated or if liquidity conditions change.
 
 ## Data Sharing Restrictions
