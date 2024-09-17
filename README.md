@@ -13,3 +13,6 @@ This project implements a statistical arbitrage trading strategy using pairs tra
 
 ## Data Sharing Restrictions
 Please note that the stock price data used in this project was provided by Amila Muthunayake and is subject to specific usage restrictions. As per the terms agreed upon with the professor, we are unable to share this data publicly. However, the methodology and code for the trading strategy are fully available for review and use. If you are interested in replicating the results, you will need to acquire your own stock price data.
+
+## Current state of project
+As of the lastest update to this readme, the most up-to-date code is in the project_Draft3.ipynb.
